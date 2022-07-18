@@ -28,10 +28,9 @@ While every effort was made to keep this mod safe, author(s) cannot provide any 
 
 This mod uses [Harmony](https://github.com/pardeike/Harmony) and [BTML](https://github.com/Mpstark/BattleTechModLoader).
 
-1. Download and install [BTML](https://github.com/Mpstark/BattleTechModLoader#installingupdating)
-2. Download the latest release of this mod from [nexus](https://www.nexusmods.com/battletech/mods/90) or [github](https://github.com/alexanderabramov/bt-real-hit-chance/releases)
-3. Unpack AA.BT.RealHitChance.dll into BATTLETECH\Mods\
-4. After launching the game, check that BATTLETECH\Mods\BTModLoader.log has a line "Found DLL: AA.BT.RealHitChance.dll" and no errors
+1. BTML should now be installed through [ModTek](https://github.com/BattletechModders/ModTek/releases)
+2. Download the latest release of this mod from [github](https://github.com/Shivix/bt-real-hit-chance/releases)
+3. Unpack AA.BT.RealHitChance.zip into BATTLETECH\Mods\
 
 ## Reporting issues
 
