@@ -1,0 +1,11 @@
+{
+    "Name": "RealHitChance",
+    "Enabled": true,
+    "Version": "1.0",
+    "Description": "Display the real hit chance",
+    "Author": "casualmods",
+    "Website": "https://www.nexusmods.com/battletech/mods/90?",
+    "Contact": "",
+    "DLL": "AA.BT.RealHitChance.dll",
+    "Debug" : false
+} 
